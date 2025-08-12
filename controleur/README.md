@@ -1,7 +1,5 @@
 # controleur
 
-**TODO:** Describe what your plugin does.
-
 ## Setup
 
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
@@ -9,9 +7,13 @@ or manually using this URL:
 
     https://github.com/Oscar_T24/controleur/archive/master.zip
 
-**TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
-the plugin manager.
+## Installation 
 
-## Configuration
+With Octoprint's virtual environment activated (`source ~/OctoPrint/venv/bin/activate`) run in the main `controleur` directory : 
+> `pip install -e .` 
 
-**TODO:** Describe your plugin's configuration options (if any).
+`-e` is for development mode. Changes made in the directory will be propagated to the octoprint install 
+
+## Usage 
+
+
