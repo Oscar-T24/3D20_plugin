@@ -1,0 +1,11 @@
+#tab_plugin_controleur {
+    height: calc(100vh - 200px); /* Adjust 200px depending on your header/footer */
+}
+
+#controleur_iframe_container {
+    height: 100%;
+}
+
+#controleur_console_iframe {
+    height: 100%;
+}

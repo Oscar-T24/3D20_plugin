@@ -1,0 +1,4 @@
+include README.md
+recursive-include controleur/templates *
+recursive-include controleur/translations *
+recursive-include controleur/static *
